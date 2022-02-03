@@ -10,3 +10,4 @@ Semana 2:
 
 Semana 3:
 + :dart: 02/02/2022 : sala de computo instalar credenciales y proyecto.
++ 03/02/2022: sala de computo. Primeros pasos en R y Rstudio.
