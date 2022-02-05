@@ -3,7 +3,7 @@
 # Laboratorio 1
 
 
-# Primer contacto con la consola de R -------------------------------------
+# Parte I Primer contacto con la consola de R -------------------------------------
 
 
 # Gastos totales
@@ -105,7 +105,7 @@ barplot(sort(gastos, decreasing = TRUE))
 # Tipo de variables (cualitativas o cuantitativas)
  
  # + Nombre de estudiante (cualitativa)
- # + Fecha de nacimiento  (cualitativa)
+ # + Fecha de nacimiento  (cuantitativa)
  # + Edad  (cuantitativa)
  # + Dirección de casa  (cualitativa) 
  # + Número de teléfono  (cualitativa)
@@ -118,5 +118,39 @@ barplot(sort(gastos, decreasing = TRUE))
 
 # Problema 2
 
+ #Perros (animal)
+ #Variables:
+ # + peso
+ # + altura
+ # + color
+ # + raza/especie
 
+# Problema 3
 
+ # sería una variable cuantitativa, ya que se expresa numericamente.
+
+# Problema 4
+
+ # pregunta 1
+  #(1) sujeto de investigación <- estudiantes de universidad
+  #(2) variables <- horas de trabajo por semana
+  #(3) tipo de variable <- cuantitativo
+
+ #pregunta 2
+  #(1) sujeto de investigación <- estudiantes universitarios de México
+  #(2) variables <- proporción de estudiantes inscritos en universidad públicas
+  #(3) tipo de variable <- cualitativa
+
+ #pregunta 3
+  #(1) sujeto de investigación <- estudaintes femeninas y estudiantes varones
+  #(2) variables <- promedio de CENEVAL
+  #(3) tipo de variable <- cuantitativa
+
+ #pregunta 4
+  #(1) sujeto de investigación <- atletas universitarios y atletas no universitarios
+  #(2) variables <- asesoramiento académico
+  #(3) tipo de variable <- cualitativa
+
+ #pregunta 5 histogramas
+  # la pregunta 1 y 3, ya que los datos de variables se necesitan agrupar para la realización del histograma.
+  
