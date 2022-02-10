@@ -6,12 +6,12 @@ Semana 1:
 
 Semana 2: 
 + 26/01/2022: Primeros pasos en R y Rstudio.
-+ 27/01/2022: conectar github y Rstudio.
++ 27/01/2022: Conectar github y Rstudio.
 
 Semana 3:
-+ :dart: 02/02/2022 : sala de computo: instalar credenciales y proyecto.
-+ 03/02/2022: sala de computo: Revisar lab 1 y HW01.
++ :dart: 02/02/2022 : Sala de computo: Instalar credenciales y proyecto.
++ 03/02/2022: Sala de computo: Revisar lab 1 y HW01.
 
 Semana 4:
-+ 09/02/2022: sala de computo: base de datos y gráficas
-+ 10/02/2022: SALA DE COMPUTO:
++ 09/02/2022: Sala de computo: Revisar lab 2 base de datos y gráficas
++ 10/02/2022: Sala de computo: Lab 2 (parte 2) Importar base de datos y restricciones
