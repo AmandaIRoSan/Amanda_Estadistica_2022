@@ -26,17 +26,58 @@ head(profepa2)
 
 # Datos de URL seguras (https): Dropbox y Github
 
-library(repmis) # VERIFICAR
-conjunto <- source()
+library(repmis) # descargar
+conjunto <- source_data("https://www.dropbox.com/s/hmsf07bbayxv6m3/cuadro1.csv?dl=1")
+head(conjunto) # muestra las primeras seis filas de la BD
+
+library(readr)
+file <- paste0("https://raw.githubusercontent.com/mgtagle/",
+               "202_Analisis_Estadistico_2020/master/cuadro1.csv")
+inventario <- read.csv(file)
+head(inventario)
 
 # Operaciones con la base de datos ----------------------------------------
 
-lab.url <- "https://raw.githubusercontent.com/AmandaIRoSan/Amanda_Estadistica_2022/main/CLASES/BD_vivero.csv"
-BD_lab <- read.csv(lab.url)
-
-mean(BD_lab$IE) #El signo de $ informa que necesitamos la columna
-sd(BD_lab$IE)
+mean(trees$dbh) # signo $ informa la columna
+sd(trees$dbh)
 
 # Selección mediante restricciones
+# igual o mayor (>=), mayor que (>), igual que (==), igual o menor (<=), menor que (<), no igual (!=)
 
- # igual o mayor (>=), mayor que (>), igual que (==), igual o menor (<=), menor que (<), no igual (!=)
+altura <- subset(trees, trees$dbh < 10)
+
+# indica la sumatoria de los individuos en el objeto tree con un dbh < a 10
+sum(trees$dbh < 10)
+which(trees$dbh < 10)
+
+trees.13 <- trees[!(trees$parcela=="2"),]
+trees.13
+
+# selección de submuestra
+trees.1 <- subset(trees, dbh <= 10)
+head(trees.1)
+mean(trees$dbh)
+mean(trees.1$dbh)
+
+
+# Representación gráfica --------------------------------------------------
+
+# Histogramas
+mamiferos <- read.csv("https://www.openintro.org/data/csv/mammals.csv")
+hist(mamiferos$total_sleep)
+
+hist(mamiferos$total_sleep, xlim = c(0,20), ylim = c(0,14), main = "Total de horas sueño de las 39 especies",
+     xlab = "Horas sueño", ylab = "Frecuencia", las = 1, col = "#996600")
+
+# Barplot o gráfico de barras
+data("chickwts")
+head(chickwts[c(1:2,42:43, 62:64), ])
+feeds <- table(chickwts$feed)
+feeds
+barplot(feeds)
+barplot(feeds[order(feeds, decreasing = TRUE)])
+
+# Autoevaluación
+
+barplot(feeds[order(feeds, decreasing = TRUE)])
+
