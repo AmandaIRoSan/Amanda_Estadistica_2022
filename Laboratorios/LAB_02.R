@@ -66,8 +66,13 @@ mean(trees.1$dbh)
 mamiferos <- read.csv("https://www.openintro.org/data/csv/mammals.csv")
 hist(mamiferos$total_sleep)
 
-hist(mamiferos$total_sleep, xlim = c(0,20), ylim = c(0,14), main = "Total de horas sueño de las 39 especies",
-     xlab = "Horas sueño", ylab = "Frecuencia", las = 1, col = "#996600")
+hist(mamiferos$total_sleep, # Datos
+     xlim = c(0,20), ylim = c(0,14), # Cambiar los límites de x & y 
+     main = "Total de horas sueño de las 39 especies", # Cambiar el título
+     xlab = "Horas sueño", # Cambiar eje de las x
+     ylab = "Frecuencia", # Cambiar eje de las y
+     las = 1, # Cambiar orientación de y
+     col = "#996600") # Cambiar color de las barras
 
 # Barplot o gráfico de barras
 data("chickwts")
@@ -79,5 +84,8 @@ barplot(feeds[order(feeds, decreasing = TRUE)])
 
 # Autoevaluación
 
-barplot(feeds[order(feeds, decreasing = TRUE)])
-
+barplot(sort(feeds), horiz = TRUE, 
+        main = "Frecuencias por tipos de alimentación", 
+        las = 1, xlab = "Número de pollos", 
+        col = c("#FFA000", "#FFB300", "#FFC107", "#FFCA28", "#FFD54F", "#FFE082")) 
+        
