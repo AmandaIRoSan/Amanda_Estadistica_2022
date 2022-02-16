@@ -18,13 +18,23 @@ summary(inventario)
 # Usar la función table
 
 freq.sp <- table(inventario$Especie)
-freq.sp/sum(freq.sp)*100
-
-freq.psn <- table(inventario$Posicion)
-porciento <- freq.psn/sum(freq.psn)*100
+porciento <- freq.sp/sum(freq.sp)*100
 sum(porciento)
 
+freq.psn <- table(inventario$Posicion)
+freq.psn/sum(freq.psn)*100
 
+# Porcentaje de posición
 
+por.pos <- freq.psn/sum(freq.psn)*100
+barplot(freq.sp, col = "blue", las =1, border = NA)
+barplot(porciento, col = "red", las =1)
 
+barplot(freq.psn, las =1, col = "lightblue", border = NA)
+barplot(por.pos, las =1, col = "lightyellow", border = NA)
+
+pie(freq.psn, col = topo.colors(4))
+pie(por.pos, col = topo.colors(4), labels = paste(levels(inventario$Posicion), por.pos, "%"))
+
+pie(freq.sp, col = topo.colors(3), labels = paste(levels(inventario$Especie), freq.sp, "ind"))
 
