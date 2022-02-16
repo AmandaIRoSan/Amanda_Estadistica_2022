@@ -15,3 +15,7 @@ Semana 3:
 Semana 4:
 + 09/02/2022: Sala de computo: Revisar lab 2 base de datos y gráficas
 + 10/02/2022: Sala de computo: Lab 2 (parte 2) Importar base de datos y restricciones
+
+Semana 5:
++ 16/02/2022: Sala de computo: Trabajar con tablas de frecuencias 
++ :round_pushpin: 17/02/2022: 
