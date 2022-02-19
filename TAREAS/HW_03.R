@@ -37,7 +37,8 @@ promedio2.2
 # Problema 5
 Germinaciones <- c(5, 6, 7, 8, 9)
 c.petri <- c(1, 3, 5, 3, 1)
-
+mean(c.petri)
+median(c.petri)
 
 # Problema 6
 set <-c(2, 2, 3, 6, 10)
