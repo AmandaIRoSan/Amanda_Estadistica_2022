@@ -18,4 +18,8 @@ Semana 4:
 
 Semana 5:
 + 16/02/2022: Sala de computo: Trabajar con tablas de frecuencias 
-+ :round_pushpin: 17/02/2022: 
++ :round_pushpin: 17/02/2022: Sala de computo: Estadística diferencial
+
+Semana 6:
++ :round_pushpin: 23/02/2022: Sala de computo: Explicación de experimentos y hojas de registro. Colección de datos.
++ :round_pushpin: 24/02/2022: Sala de computo: 
