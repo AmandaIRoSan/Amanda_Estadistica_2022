@@ -22,4 +22,8 @@ Semana 5:
 
 Semana 6:
 + :round_pushpin: 23/02/2022: Sala de computo: Explicación de experimentos y hojas de registro. Colección de datos.
-+ :round_pushpin: 24/02/2022: Sala de computo: 
++ :round_pushpin: 24/02/2022: Sala de computo: Captura de datos.
+
+Semana 7:
++ :round_pushpin: 02/03/2022: Sala de computo: Importar datos
++ :round_pushpin: 03/03/2022:
