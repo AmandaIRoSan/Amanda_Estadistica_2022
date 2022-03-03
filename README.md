@@ -26,4 +26,4 @@ Semana 6:
 
 Semana 7:
 + :round_pushpin: 02/03/2022: Sala de computo: Importar datos
-+ :round_pushpin: 03/03/2022:
++ :round_pushpin: 03/03/2022: Explicación de reporte cinetífico(PIA).
