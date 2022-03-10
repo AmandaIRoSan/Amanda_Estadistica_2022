@@ -22,8 +22,18 @@ Semana 5:
 
 Semana 6:
 + :round_pushpin: 23/02/2022: Sala de computo: Explicación de experimentos y hojas de registro. Colección de datos.
-+ :round_pushpin: 24/02/2022: Sala de computo: Captura de datos.
++ :round_pushpin: 24/02/2022: Captura de datos.
 
 Semana 7:
-+ :round_pushpin: 02/03/2022: Sala de computo: Importar datos
-+ :round_pushpin: 03/03/2022: Explicación de reporte cinetífico(PIA).
++ :round_pushpin: 02/03/2022: Sala de computo: Importar datos de semillas
++ :round_pushpin: 03/03/2022: Sala de computo: Explicación de reporte cinetífico(PIA).
+
+Semana 8:
++ :round_pushpin: 09/03/2022: Sala de computo
++ :round_pushpin: 10/03/2022: Sala de computo: Importar datos madera 2x2x2
+
+Semana 9:
++ :round_pushpin: 16/03/2022:
++ :round_pushpin: 17/03/2022:
+
+
