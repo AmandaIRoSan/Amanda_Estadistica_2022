@@ -15,11 +15,10 @@ library(dplyr)
 # H1= la variable peso de la Sp barreta es diferente 
 
 
+# Comparación de una media teórica Mu=8.0 para Sp=Barreta
+
 bar <- madera %>%
   filter(Sp=="Bar")
-
-
-# Comparación de una media teórica Mu=8.0 para Sp=Barreta
 
 mean(bar$Peso_gr)
 
@@ -41,8 +40,21 @@ t.test(chp$Peso_gr, mu=7.48)
 
 # Comparación de una media teórica Mu=12.00 para Sp=D.Eb
 
+d.eb <- madera %>%
+  filter(Sp=="D. Ebano")
+mean(d.eb$Peso_gr)
+t.test(d.eb$Peso_gr, mu=12)
+
 # Comparación de una media teórica Mu=11.3 para Sp=D.Eb
+t.test(d.eb$Peso_gr, mu=11.3)
 
 # Comparación de una media teórica Mu=8.3 para Sp=Eb
 
+Eb <- madera %>%
+  filter(Sp=="Ebano")
+
+mean(Eb$Peso_gr)
+t.test(Eb$Peso_gr, mu=8.3)
+
 # Comparación de una media teórica Mu=7.9 para Sp=Eb
+t.test(Eb$Peso_gr, mu=7.9)
