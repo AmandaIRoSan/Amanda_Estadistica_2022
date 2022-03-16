@@ -33,7 +33,7 @@ Semana 8:
 + :round_pushpin: 10/03/2022: Sala de computo: Importar datos madera 2x2x2
 
 Semana 9:
-+ :round_pushpin: 16/03/2022:
++ :round_pushpin: 16/03/2022: Sala de computo: Datos paramétricos
 + :round_pushpin: 17/03/2022:
 
 
