@@ -3,7 +3,7 @@
 # 16/03/2022
 # Revisar datos peso madera 2x2x2
 # BD madera
-
+#PRUEBAS DE NORMALIDAD
 
 # Distribución en una sola cola en la gráfica, cuando solo se quiere saber si hay diferencias
 # dos colas en la gráfica y alfa= +/-0.025, aqui se especifica si hay una diferencia (< , >)
