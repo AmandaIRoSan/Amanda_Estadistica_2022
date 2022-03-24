@@ -7,6 +7,7 @@
 # HIPOTESIS NULA (H0): no hay diferencia entre los pesos entre las variables Ebano y D.Ebano en la base de datos madera
 # HIPOTESIS ALT (H1): hay diferencia entre los pesos de  las especies Ebano y D.Ebano en la base de datos madera.
 # valor alfa= 0.05
+
 # extraer datos
 madera <- read.csv("CLASES/BD.est.madera2x2.csv", header = T)
 
