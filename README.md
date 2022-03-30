@@ -36,4 +36,23 @@ Semana 9:
 + :round_pushpin: 16/03/2022: Sala de computo: Datos paramétricos
 + :round_pushpin: 17/03/2022:
 
+Semana 10:
++ :round_pushpin: 23/03/2022: Sala de computo:  PRUEBA DE DOS MUESTRAS
++ :round_pushpin: 24/03/2022: EXAMEN DE COMPARACION DE MEDIDAS
+
+Semana 11:
++ :round_pushpin: 30/03/2022: Prueba de una muestra
++ :round_pushpin: 31/03/2022:
+
+Semana 12:
++ :round_pushpin: 06/04/2022:
++ :round_pushpin: 07/04/2022:
+
+
+
+
+
+
+
+
 
