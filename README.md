@@ -46,7 +46,7 @@ Semana 11:
 
 Semana 12:
 + :round_pushpin: 06/04/2022:
-+ :round_pushpin: 07/04/2022:
++ :round_pushpin: 07/04/2022: Sala de computo: PRUEBA DE T CON ESPECIFICACIÓN
 
 
 
