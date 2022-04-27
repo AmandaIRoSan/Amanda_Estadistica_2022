@@ -48,8 +48,9 @@ Semana 12:
 + :round_pushpin: 06/04/2022:
 + :round_pushpin: 07/04/2022: Sala de computo: PRUEBA DE T CON ESPECIFICACIÓN
 
-
-
+Semana 13:
++ :round_pushpin: 27/04/2022: Sala de cómputo: CORRELACIÓN
++ :round_pushpin: 28/04/2022:
 
 
 
