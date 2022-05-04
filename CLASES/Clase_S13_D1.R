@@ -5,7 +5,7 @@
 # observaciones independientes, la correlación es lineal
 # r= 1:-1 (co-relación perfecta, pero no ocurre en la naturaleza)
 # co-relación positiva: la líenea va hacia arriba (pendiente), los valores de x aumentan los valores de y igual
-# co-relación negativa: la línea va hacia abajo, si los valores de x diminuyen, los valores de y tambien lo hará.
+# co-relación negativa: la línea va hacia abajo, si los valores de x aumenta, los valores de y disminuye.
 
 # EJERCICIO DE CORRERALCIÓN
 

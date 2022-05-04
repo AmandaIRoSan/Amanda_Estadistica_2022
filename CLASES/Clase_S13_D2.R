@@ -19,7 +19,7 @@ cor.test(speed, abundance)
 
 # EJERCICIO 2
 
-suelo <- read.csv("CLASES/suelo.csv")
+suelo <- read.csv("suelo.csv")
 
 cor.test(suelo$pH, suelo$N)
 # r: 0.636654

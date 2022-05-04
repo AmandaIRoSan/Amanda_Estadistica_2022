@@ -53,7 +53,7 @@ Semana 13:
 + :round_pushpin: 28/04/2022: Sala de cómputo: Asignación 5: Correlación
 
 Semana 14:
-+ :round_pushpin: 04/05/2022:
++ :round_pushpin: 04/05/2022: Sala de computo: CORRELACIÓN: EJERCICIO DE REGRESIÓN
 + :round_pushpin: 05/05/2022:
 
 Semana 15:
