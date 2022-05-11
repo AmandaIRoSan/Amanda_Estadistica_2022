@@ -57,7 +57,7 @@ Semana 14:
 + :round_pushpin: 05/05/2022:
 
 Semana 15:
-+ :round_pushpin: 11/05/2022:
++ :round_pushpin: 11/05/2022: Sala de computo: HW 6
 + :round_pushpin: 12/05/2022:
 
 
