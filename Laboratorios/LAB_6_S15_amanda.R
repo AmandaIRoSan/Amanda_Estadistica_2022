@@ -110,13 +110,28 @@ dat$Teams[dat$Losses >= 10 & dat$Losses <= 29]
 
 # Tu Turno ----------------------------------------------------------------
 
+Teams = teams = c("UtJ", "PhS", "DnN", "LAC", "DIM", "PTB", "LAL", "MeG", 
+                  "GSW", "SAS", "NOP", "SaK", "MiT", "OCT", "HoR")
+Teams = factor(Teams)
+Wins = c(52, 51, 47, 47, 42, 42, 42, 38, 39, 33, 31, 31, 23, 22, 17)
+Losses = c(20, 21, 25, 25, 30, 30, 30, 34, 33, 39, 41, 41, 49, 50, 55)
+Win_Loss_perc = Wins / (Wins + Losses)
+Games_Behind = Wins[1] - Wins
+Points_Scored = c(116.4, 115.3, 115.1, 114.0, 112.4, 116.1, 109.5, 113.3, 113.7, 111.1, 114.6, 113.7, 112.1, 105.0, 108.8)
+Points_Against = c(107.2, 109.5, 110.1, 107.8, 110.2, 114.3, 106.8, 112.3, 112.7, 112.8, 114.9, 117.4, 117.7, 115.6, 116.7)
+Rating = c(8.97, 5.67, 4.82, 6.02, 2.26, 1.81, 2.77, 1.07, 1.10, -1.58, -0.20, -3.45, -5.25, -10.13, -7.50)
 
-
-
-
-
-
-
-
-
-
+Basquet = data.frame(
+  Teams = Teams,
+  W = Wins,
+  L = Losses,
+  W_L = Win_Loss_perc,
+  GB = Games_Behind,
+  PS_G = Points_Scored,
+  PA_G = Points_Against,
+  SRS = Rating)
+Basquet
+sort(Basquet$PS_G)
+sort(Basquet$PS_G, decreasing = T)
+sort(Points_Scored)
+sort(Points_Scored, decreasing = T)
