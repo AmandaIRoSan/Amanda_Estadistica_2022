@@ -63,8 +63,12 @@ Semana 15:
 + :round_pushpin: 11/05/2022: Sala de computo: [HW 6](link del archivo)
 + :round_pushpin: 12/05/2022: Sala de computo
 
-Gráfica de contribución:
+Semana 16: 
++ :round_pushpin: 18/05/2022: Sala de computo: PREPARACIÓN DEL PIA
++ :round_pushpin: 19/05/2022: Sala de computo: PREPARACIÓN DEL PIA
 
+Gráficas de contribución:
+![DESCRIPCIÓN](LINK)
 
 
 
