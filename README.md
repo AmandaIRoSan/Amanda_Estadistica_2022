@@ -10,7 +10,10 @@ Semana 2:
 
 Semana 3:
 + :dart: 02/02/2022 : Sala de computo: Instalar credenciales y proyecto.
-+ 03/02/2022: Sala de computo: Revisar lab 1 y HW01.
++ 03/02/2022: Sala de computo: 
+  + Revisar [lab 1.R](Laboratorios/LAB_01.R)
+  + [LAB 1.pdf]()
+  + [HW01](TAREAS/HW_01.R)
 
 Semana 4:
 + 09/02/2022: Sala de computo: Revisar lab 2 base de datos y gráficas
@@ -54,12 +57,13 @@ Semana 13:
 
 Semana 14:
 + :round_pushpin: 04/05/2022: Sala de computo: CORRELACIÓN: EJERCICIO DE REGRESIÓN
-+ :round_pushpin: 05/05/2022:
++ :round_pushpin: 05/05/2022: 
 
 Semana 15:
-+ :round_pushpin: 11/05/2022: Sala de computo: HW 6
-+ :round_pushpin: 12/05/2022:
++ :round_pushpin: 11/05/2022: Sala de computo: [HW 6](link del archivo)
++ :round_pushpin: 12/05/2022: Sala de computo
 
+Gráfica de contribución:
 
 
 
