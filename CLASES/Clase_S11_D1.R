@@ -3,7 +3,7 @@
 # 30/03/2022
 # PRUEBA de una muestra en el tiempo
 
-datos <- read.csv("CLASES/mainproduccion.csv", header = T)
+datos <- read.csv("mainproduccion.csv", header = T)
 datos$Tiempo <- as.factor(datos$Tiempo)
 
 # H0 = no hay diferencia entre la media de los pesos entre las semillas entre el año 2012 y el año 2013.

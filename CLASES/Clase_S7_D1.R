@@ -9,7 +9,7 @@
 
 # Importar datos
 
-semilla <- read.csv("CLASES/BaseDeDatos_estadistica.csv", header = T)
+semilla <- read.csv("BaseDeDatos_estadistica.csv", header = T)
 graf.sem <- boxplot(semilla$Peso_gr)
 
 # Identificar

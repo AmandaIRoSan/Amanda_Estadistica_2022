@@ -9,7 +9,7 @@
 # valor alfa= 0.05
 
 # extraer datos
-madera <- read.csv("CLASES/BD.est.madera2x2.csv", header = T)
+madera <- read.csv("BD.est.madera2x2.csv", header = T)
 
 library(dplyr)
 

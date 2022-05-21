@@ -4,7 +4,7 @@
 # Revisar datos peso madera 2x2x2
 # BD madera
 
-madera <- read.csv("CLASES/BD.est.madera2x2.csv", header = T)
+madera <- read.csv("BD.est.madera2x2.csv", header = T)
 
 madera$Sp <- as.factor(madera$Sp)
 

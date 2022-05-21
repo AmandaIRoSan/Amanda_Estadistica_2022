@@ -9,7 +9,7 @@
 
 # EJERCICIO DE CORRERALCIÓN
 
-semilla <- read.csv("CLASES/BaseDeDatos_estadistica.csv", header = T)
+semilla <- read.csv("BaseDeDatos_estadistica.csv", header = T)
 
 # Revisar mediante una gráfica si existe una asociación entre el diámetro y la longitud
 

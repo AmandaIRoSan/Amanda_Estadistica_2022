@@ -7,7 +7,7 @@
 # sumatoria: y´-yobs= 0 residuales
 # varianza
 
-semilla <- read.csv("CLASES/BaseDeDatos_estadistica.csv", header = T)
+semilla <- read.csv("BaseDeDatos_estadistica.csv", header = T)
 
 # PLOT DE DIÁMETRO vs PESO (gr)
 plot(semilla$Diametro_mm, semilla$Peso_gr,

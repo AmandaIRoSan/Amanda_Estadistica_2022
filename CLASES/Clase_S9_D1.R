@@ -12,7 +12,7 @@
 # normalidad <- shapiro.test 
 # datos homogéneos
 
-madera <- read.csv("CLASES/BD.est.madera2x2.csv", header = T)
+madera <- read.csv("BD.est.madera2x2.csv", header = T)
 
 library(dplyr)
 
@@ -40,7 +40,7 @@ shapiro.test(Eb$Peso_gr)
 hist(madera$Peso_gr, col = "yellow")
 shapiro.test(madera$Peso_gr)
 
-semilla <- read.csv("CLASES/BaseDeDatos_estadistica.csv", header = T)
+semilla <- read.csv("BaseDeDatos_estadistica.csv", header = T)
 hist(semilla$Peso_gr)
 shapiro.test(semilla$Peso_gr)
 

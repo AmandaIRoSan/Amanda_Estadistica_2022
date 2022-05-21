@@ -1,8 +1,8 @@
 # AMANDA
 # 09/02/2022
-# semanda 4 Sla de computo
+# semanda 4 Sala de computo
 
-setwd("C:/Users/Usuario.PC17.001/Documents/r (amanda IF)/Amanda_Estadistica_2022/CLASES")
+setwd("C:/Users/isa_r/OneDrive - Universidad Autonoma de Nuevo León/2do. SEMESTRE/PRINCIPIOS DE ESTADÍSTICA/Amanda_Estadistica_2022/CLASES")
 # Importar datos ----------------------------------------------------------
 
 vivero <- read.csv("BD_vivero.csv", header = TRUE)
