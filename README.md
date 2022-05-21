@@ -1,20 +1,20 @@
 # Amanda_Estadistica_2022
 Objetivo es almacenar el proyecto de trabajo de la clase de Principios de estadística
 
-Semana 1:
+:deciduous_tree: Semana 1:
 + 19/01/2022: Clase en linea y presentacion de la clase de estudio. 
 
-Semana 2: 
+:deciduous_tree: Semana 2: 
 + 26/01/2022: Primeros pasos en R y Rstudio.
 + 27/01/2022: Conectar github y Rstudio.
 
-Semana 3:
+:deciduous_tree: Semana 3:
 + :dart: 02/02/2022 : Sala de computo: Instalar credenciales y proyecto.
 + 03/02/2022: Sala de computo: Revisar
-  + :arrow_forward: [LAB 1.R](Laboratorios/LAB_01.R)
-  + :arrow_forward: [LAB 1.pdf](Laboratorios/LAB_01_amanda.pdf)
-  + :arrow_forward: [HW01.R](TAREAS/HW_01.R)
-  + :arrow_forward: [HW01.pdf](TAREAS/HW_01_amanda_Pt.2.pdf)
+  + :link: [LAB 1.R](Laboratorios/LAB_01.R)
+  + :link: [LAB 1.pdf](Laboratorios/LAB_01_amanda.pdf)
+  + :link: [HW01.R](TAREAS/HW_01.R)
+  + :link: [HW01.pdf](TAREAS/HW_01_amanda_Pt.2.pdf)
 
 Semana 4:
 + 09/02/2022: Sala de computo: Revisar lab 2 base de datos y gráficas
