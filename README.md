@@ -106,7 +106,8 @@ Objetivo es almacenar el proyecto de trabajo de la clase de Principios de estad�
 + :date: 19/05/2022: Sala de computo: PREPARACIÓN DEL PIA
 
 Gráficas de contribución:
-![DESCRIPCIÓN](LINK)
+![GRÁFICA_1](CLASES/Imagen1.png)
+![GRÁFICA_2](CLASES/Imagen2.png)
 
 
 
